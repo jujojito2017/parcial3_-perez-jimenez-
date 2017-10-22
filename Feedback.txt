@@ -1,0 +1,14 @@
+Feedback:
+
+1. (0.5/2.0)
+* No se pidió el diseño de la implementación del árbol del enunciado, sino de un árbol de comportamiento cualquiera. Solo se debía completar el diagrama de clases provisto.
+* Task no puede ser quien tenga compuestas instancias de Selector, porque Task es el que tiene la tarea específica a ejecutar.
+* No está la clase base Sequence.
+* Según este diseño, un selector no es un nodo. El modelo de árbol de comportamiento, como se explicó en el enunciado, sugiere lo contrario.
+* Qué es un "Boot" y por qué agrega tasks de espera específicamente?
+* Qué tipo de dato es un Bool-Wait()?
+2. (0.0/3.0)
+* La implementación no corresponde con el diseño del diagrama de clases.
+* No hay nada de árboles de comportamiento programado.
+
+Nota: 0.5
